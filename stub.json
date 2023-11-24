@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"iPhone app","md5":"ccbd693c13478a705660a3b2ec4458ad"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"App that stores and displays 5 different .usdz models for use in a company called Wetact to demonstrate their products. Guarded by a password \"W3tact\"","md5":"48e243bcb4b7d12732646d97a59ab4c7"}]}
